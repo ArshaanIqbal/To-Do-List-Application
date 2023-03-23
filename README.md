@@ -18,6 +18,13 @@ To use this application, simply open the index.html file in a web browser. The a
 →Prerequisites
 
 There are no prerequisites to use this application.
+<img width="1424" alt="(1) Screenshot with Greetings message" src="https://user-images.githubusercontent.com/88961755/227257336-8d334d68-7d5b-4e2a-b7b6-49de3eaabd3b.png">
+<img width="1424" alt="(2) Screenshot without Greetings message" src="https://user-images.githubusercontent.com/88961755/227257378-e8de4c84-ffd2-4043-a294-0ad076e7ef96.png">
+<img width="1424" alt="(3) Screenshot with two tasks" src="https://user-images.githubusercontent.com/88961755/227257385-93be68b3-d592-4455-93b5-01010a055a3c.png">
+
+
+https://user-images.githubusercontent.com/88961755/227257395-8dc149f3-da6c-4a71-b85d-1673798a21da.mov
+
 
 →Installing
 
